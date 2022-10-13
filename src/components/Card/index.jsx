@@ -16,3 +16,4 @@ const Card = ({ img, name, username, email, address }) => {
   );
 };
 
+export default Card;
